@@ -1,0 +1,85 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  
+  background-color: #FAF7FD;
+}
+body * {
+  font-family: 'Poppins', sans-serif;
+  line-height: 24px;
+  color: #BB99DD;
+}
+ul{
+  list-style: none;
+}
+h1 {
+  font-weight: 300;
+  font-style: light;
+  font-size: 16px;
+
+}
+p {
+  font-weight: 600;
+  font-size: 16px;
+}
+main {
+  max-width: 326px;
+  width: 100%;
+  
+  margin: auto;
+  background-position:top center;
+  display: grid;
+  
+  gap: 17px;
+}
+.my-profile, .links, .redes {
+  display: flex;
+  flex-direction: column;
+}
+.my-profile {
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding-top: 30px;
+}
+.my-profile img {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+  
+  border: solid 2px;
+  padding: 6px;
+}
+.links p{
+  width: 326px;
+  height: 49px;
+}
+.links p{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.links  li{
+  border: solid 2px #BB99DD;
+  margin-top: 16px;
+  border-radius: 4px;
+
+  text-transform: uppercase;
+}
+.redes ul{
+  display: flex;
+  gap: 29px;
+  margin-top: 36px;
+  align-items: center;
+  justify-content: center;
+}
