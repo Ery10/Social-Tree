@@ -2,7 +2,7 @@
 
 ![preview](./github/preview.png)
 
-> Desafio
+>💻 Sobre o desafio "Social Tree"
 
 Desafio construído no discover da Rocketseat.
 
