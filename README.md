@@ -5,7 +5,7 @@
 
 > Desafio Discover
 
-Desafio idealizado no discover da Rocketseat, colocando um link para redes sociais.
+Desafio idealizado no discover da Rocketseat, colocando links para redes sociais.
 
 
 [🔗 Clique aqui para acessar o desafio realizado](https://ery10.github.io/Social-Tree/)
